@@ -36,14 +36,14 @@ Environmental hazard detection focusing on fog and visibility conditions.
 
 ### Running Car Crash Detection
 ```bash
-cd Car-Crash-Detection
+cd CarCrashDetection
 pip install -r requirements.txt
 python main.py
 ```
 
 ### Running Fog Detection System
 ```bash
-cd Fog-Detection-System
+cd FogDetectionSystem
 pip install -r requirements.txt
 python main.py
 ```
